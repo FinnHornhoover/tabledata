@@ -10614,9 +10614,9 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                1657,
-                1673,
-                1692
+                1130,
+                1582,
+                1609
             ]
         },
         "166": {
@@ -10628,9 +10628,12 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                1606,
-                1627,
-                656
+                611,
+                1123,
+                1139,
+                1189,
+                1586,
+                1604
             ]
         },
         "167": {
@@ -10656,9 +10659,9 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                1657,
-                1673,
-                1692
+                1130,
+                1582,
+                1609
             ]
         },
         "169": {
@@ -10670,9 +10673,12 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                1606,
-                1627,
-                656
+                611,
+                1123,
+                1139,
+                1189,
+                1586,
+                1604
             ]
         },
         "170": {
@@ -18569,12 +18575,12 @@
         "788": {
             "CrateID": 1069,
             "ItemSetID": 165,
-            "RarityWeightID": 1
+            "RarityWeightID": 2
         },
         "789": {
             "CrateID": 1070,
             "ItemSetID": 166,
-            "RarityWeightID": 1
+            "RarityWeightID": 3
         },
         "790": {
             "CrateID": 1073,
@@ -18584,12 +18590,12 @@
         "791": {
             "CrateID": 1074,
             "ItemSetID": 168,
-            "RarityWeightID": 1
+            "RarityWeightID": 2
         },
         "792": {
             "CrateID": 1075,
             "ItemSetID": 169,
-            "RarityWeightID": 1
+            "RarityWeightID": 3
         },
         "793": {
             "CrateID": 1078,
