@@ -10824,9 +10824,9 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                679,
-                697,
-                1716
+                676,
+                694,
+                1274
             ]
         },
         "181": {
@@ -10838,9 +10838,12 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                674,
-                692,
-                728
+                731,
+                755,
+                1244,
+                1265,
+                1289,
+                1302
             ]
         },
         "182": {
@@ -18632,12 +18635,12 @@
         "803": {
             "CrateID": 1094,
             "ItemSetID": 180,
-            "RarityWeightID": 1
+            "RarityWeightID": 2
         },
         "804": {
             "CrateID": 1095,
             "ItemSetID": 181,
-            "RarityWeightID": 1
+            "RarityWeightID": 3
         },
         "805": {
             "CrateID": 1098,
