@@ -10908,9 +10908,9 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                751,
-                774,
-                1784
+                828,
+                1395,
+                1817
             ]
         },
         "187": {
@@ -10922,9 +10922,12 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                1737,
-                767,
-                1779
+                825,
+                844,
+                1367,
+                1397,
+                1401,
+                1802
             ]
         },
         "188": {
@@ -18656,72 +18659,12 @@
         "809": {
             "CrateID": 1104,
             "ItemSetID": 186,
-            "RarityWeightID": 1
+            "RarityWeightID": 2
         },
         "810": {
             "CrateID": 1105,
             "ItemSetID": 187,
-            "RarityWeightID": 1
-        },
-        "811": {
-            "CrateID": 1108,
-            "ItemSetID": 188,
-            "RarityWeightID": 1
-        },
-        "812": {
-            "CrateID": 1109,
-            "ItemSetID": 189,
-            "RarityWeightID": 1
-        },
-        "813": {
-            "CrateID": 1110,
-            "ItemSetID": 190,
-            "RarityWeightID": 1
-        },
-        "814": {
-            "CrateID": 1113,
-            "ItemSetID": 191,
-            "RarityWeightID": 1
-        },
-        "815": {
-            "CrateID": 1114,
-            "ItemSetID": 192,
-            "RarityWeightID": 1
-        },
-        "816": {
-            "CrateID": 1115,
-            "ItemSetID": 193,
-            "RarityWeightID": 1
-        },
-        "817": {
-            "CrateID": 1118,
-            "ItemSetID": 194,
-            "RarityWeightID": 1
-        },
-        "818": {
-            "CrateID": 1119,
-            "ItemSetID": 195,
-            "RarityWeightID": 1
-        },
-        "819": {
-            "CrateID": 1120,
-            "ItemSetID": 196,
-            "RarityWeightID": 1
-        },
-        "820": {
-            "CrateID": 1123,
-            "ItemSetID": 197,
-            "RarityWeightID": 1
-        },
-        "821": {
-            "CrateID": 1124,
-            "ItemSetID": 198,
-            "RarityWeightID": 1
-        },
-        "822": {
-            "CrateID": 1125,
-            "ItemSetID": 199,
-            "RarityWeightID": 1
+            "RarityWeightID": 3
         },
         "823": {
             "CrateID": 1134,
