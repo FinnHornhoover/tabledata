@@ -9576,22 +9576,7 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                161,
-                162,
-                163,
-                164,
-                165,
-                166,
-                167,
-                168,
-                169,
-                170,
-                171,
-                172,
-                173,
-                174,
-                175,
-                176
+                161
             ]
         },
         "94": {
@@ -9603,22 +9588,8 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                161,
-                162,
-                163,
-                164,
-                165,
-                166,
-                167,
-                168,
-                169,
-                170,
-                171,
-                172,
-                173,
-                174,
-                175,
-                176
+                4,
+                167
             ]
         },
         "95": {
@@ -9644,10 +9615,12 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                192,
-                193,
-                194,
-                195
+                181,
+                183,
+                204,
+                209,
+                215,
+                224
             ]
         },
         "97": {
@@ -9659,10 +9632,8 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                192,
-                193,
-                194,
-                195
+                4,
+                167
             ]
         },
         "98": {
@@ -9688,10 +9659,12 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                210,
-                211,
-                212,
-                213
+                181,
+                183,
+                204,
+                209,
+                215,
+                224
             ]
         },
         "100": {
@@ -9703,10 +9676,8 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                210,
-                211,
-                212,
-                213
+                4,
+                167
             ]
         },
         "101": {
@@ -9732,9 +9703,12 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                231,
-                249,
-                287
+                181,
+                183,
+                204,
+                209,
+                215,
+                224
             ]
         },
         "103": {
@@ -9746,9 +9720,8 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                230,
-                248,
-                286
+                4,
+                167
             ]
         },
         "104": {
@@ -9774,9 +9747,12 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                231,
-                249,
-                287
+                181,
+                183,
+                204,
+                209,
+                215,
+                224
             ]
         },
         "106": {
@@ -9788,9 +9764,8 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                230,
-                248,
-                286
+                4,
+                167
             ]
         },
         "107": {
@@ -18281,12 +18256,12 @@
         "716": {
             "CrateID": 949,
             "ItemSetID": 93,
-            "RarityWeightID": 1
+            "RarityWeightID": 2
         },
         "717": {
             "CrateID": 950,
             "ItemSetID": 94,
-            "RarityWeightID": 1
+            "RarityWeightID": 3
         },
         "718": {
             "CrateID": 953,
@@ -18296,12 +18271,12 @@
         "719": {
             "CrateID": 954,
             "ItemSetID": 96,
-            "RarityWeightID": 1
+            "RarityWeightID": 2
         },
         "720": {
             "CrateID": 955,
             "ItemSetID": 97,
-            "RarityWeightID": 1
+            "RarityWeightID": 3
         },
         "721": {
             "CrateID": 958,
@@ -18311,12 +18286,12 @@
         "722": {
             "CrateID": 959,
             "ItemSetID": 99,
-            "RarityWeightID": 1
+            "RarityWeightID": 2
         },
         "723": {
             "CrateID": 960,
             "ItemSetID": 100,
-            "RarityWeightID": 1
+            "RarityWeightID": 3
         },
         "724": {
             "CrateID": 963,
@@ -18326,12 +18301,12 @@
         "725": {
             "CrateID": 964,
             "ItemSetID": 102,
-            "RarityWeightID": 1
+            "RarityWeightID": 2
         },
         "726": {
             "CrateID": 965,
             "ItemSetID": 103,
-            "RarityWeightID": 1
+            "RarityWeightID": 3
         },
         "727": {
             "CrateID": 968,
@@ -18341,12 +18316,12 @@
         "728": {
             "CrateID": 969,
             "ItemSetID": 105,
-            "RarityWeightID": 1
+            "RarityWeightID": 2
         },
         "729": {
             "CrateID": 970,
             "ItemSetID": 106,
-            "RarityWeightID": 1
+            "RarityWeightID": 3
         },
         "730": {
             "CrateID": 973,
